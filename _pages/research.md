@@ -2,9 +2,8 @@
 permalink: /research/
 
 ---
----
-Publications and preprints. 
----
+
+**Publications and preprints**. 
 
 
 1. *Higher-order affine Sobolev inequalities*, published in the Journal of functional analysis (2026).
@@ -22,9 +21,6 @@ We adapt certain concentration compactness methods to the study of higher order 
 
 In the last decade, explicit descriptions of minimizers  of anisotropic interaction functionals have been obtained in special cases. In this paper, we use the connection between the minimization of such functionals  and certain nonlocal variational inequalities to obtain a general regularity result. 
 
+**Other texts**
 
-
----
-Other texts. 
----
 My master thesis,  written under the supervision of Petru Mironescu, deals with the use of interpolation and rearrangement techniques in the study of Besov and Sobolev spaces. Some proofs therein were used as supplementary material in the book A first Course in Fractional Spaces by Giovanni Leoni.
