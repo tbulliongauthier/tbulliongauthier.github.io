@@ -7,7 +7,7 @@ Publications and preprints.
 
 1. Higher-order affine Sobolev inequalities, published in the Journal of functional analysis (2026).
 2. Existence of extremal functions in higher-order affine Sobolev inequalities, preprint (2026).
-3. \(L^2\)-regularity of minimizers of anisotropic interaction functionals, with Xiao Kai, preprint (2026).
+3. <span style="white-space: nowrap;">L<sup>2</sup>-regularity</span> of minimizers of anisotropic interaction functionals, with Xiao Kai, preprint (2026).
 
 
 
