@@ -9,7 +9,7 @@ Welcome !
    
   I like functional inequalities, as well as variational and PDE problems, with a strong appetence for functional analysis.
   
-Here is my CV.
+Here is my [CV](https://github.com/tbulliongauthier/tbulliongauthier.github.io/blob/master/assets/images/CV_Tristan_Bullion_Gauthier_2026_English.pdf).
 
 Contact : bullion@math.univ-lyon1.fr
 
