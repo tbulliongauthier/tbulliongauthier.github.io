@@ -2,6 +2,9 @@
 permalink: /home/
 title: "Home"
 author_profile : false
+sidebar:
+  - image: "/assets/images/research-photo.jpg"
+    image_alt: "Portrait"
 ---
 
 Welcome !
