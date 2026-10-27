@@ -1,5 +1,5 @@
 ---
-permalink: /home
+permalink: /home/
 title: "Home"
 author_profile : false
 sidebar:
