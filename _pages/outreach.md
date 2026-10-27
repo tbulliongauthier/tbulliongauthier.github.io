@@ -2,7 +2,8 @@
 permalink: /outreach/
 title: "Outreach"
 author_profile : false
-classes : wide 
+classes : nosidebar
+
 ---
 
 - I presented my research topic to undergraduate students and non-experts, during the [Barcamp](https://www.youtube.com/watch?v=I37YQkQu_Is) taking place at the library of the University Lyon 1.
