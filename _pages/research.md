@@ -9,7 +9,7 @@ classes : nosidebar
 
 1. *Higher-order affine Sobolev inequalities*, published in the Journal of functional analysis (2026). [Arxiv](https://arxiv.org/abs/2506.10473) [Hal](https://hal.science/hal-05067637v4) [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022123626000832)
 
-   Affine Sobolev inequalities are refinements of classical sobolev inequalities. In this article, we prove higher-order counterparts of results that were known to hold for smoothness orders smaller than one. In contrast with previous works on affine inequalities, our approach does not rely on convex geometry or rearrangement tools, and allows us to obtain various affine inequalities. 
+   Affine Sobolev inequalities are refinements of classical sobolev inequalities. In this article, we prove higher-order counterparts of results that were known to hold for smoothness orders smaller than one. In contrast with the previous works on affine inequalities, our approach does not rely on convex geometry or rearrangement tools, and allows us to obtain various affine inequalities. 
 
 3. *Existence of extremal functions in higher-order affine Sobolev inequalities*, preprint (2026). [Arxiv](https://arxiv.org/abs/2604.00640) [Hal](https://hal.science/hal-05574982v1)
 
