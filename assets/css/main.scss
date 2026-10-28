@@ -12,3 +12,13 @@
   padding-left: 0;
   padding-right: 0;
 }
+// Always use the desktop layout, whatever the window width
+$small: 0;
+$medium: 0;
+$medium-wide: 0;
+$large: 0;
+$x-large: 0;
+
+// Fixed content width instead of stretching with the window
+$max-width: 1100px;
+
