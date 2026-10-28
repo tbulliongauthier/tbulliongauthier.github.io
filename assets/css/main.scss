@@ -23,20 +23,20 @@ html, body {
   min-width: 1100px;
 }
 
-.sidebar {
+.fixedlayout .sidebar {
   float: left !important;
   width: 200px !important;
   position: relative !important;
   margin-bottom: 0 !important;
 }
 
-.sidebar img {
+.fixedlayout .sidebar img {
   width: 200px;
   max-width: none;
   height: auto;
 }
 
-.page {
+.fixedlayout .page {
   float: right !important;
   width: 800px !important;
   margin-left: 40px;
