@@ -5,6 +5,7 @@ author_profile : false
 sidebar:
   - image: "/assets/images/20250410_105000(1).jpg"
     image_alt: "Portrait"
+classes : fixedlayout    
 ---
 
 Welcome !
