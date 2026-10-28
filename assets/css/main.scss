@@ -21,4 +21,6 @@ $x-large: 0;
 
 // Fixed content width instead of stretching with the window
 $max-width: 1100px;
-
+html, body {
+  min-width: 1100px;
+}
