@@ -12,6 +12,11 @@
   padding-left: 0;
   padding-right: 0;
 }
+.sidebar img {
+  width: 200px;       /* the size you want */
+  max-width: none;
+  height: auto;
+}
 // Always use the desktop layout, whatever the window width
 $small: 0;
 $medium: 0;
