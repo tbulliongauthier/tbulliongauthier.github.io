@@ -3,7 +3,7 @@ permalink: /home/
 title: "Home"
 author_profile : false
 sidebar:
-  - image: "/assets/images/20250410_105000(1).jpg"{: width="300px" style="max-width: none;"}
+  - image: "/assets/images/20250410_105000(1).jpg"
     image_alt: "Portrait"
 ---
 
