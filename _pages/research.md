@@ -21,4 +21,4 @@ classes : nosidebar
 
 **Other texts**
 
-[My master thesis](/assets/images/Memoir.pdf) ,  written under the supervision of Petru Mironescu, deals with the use of interpolation and rearrangement techniques in the study of Besov and Sobolev spaces. Some proofs therein were used as supplementary material in the book [A first Course in Fractional Spaces](https://bookstore.ams.org/view?ProductCode=GSM/229) by Giovanni Leoni.
+[My master thesis](/assets/images/Memoir.pdf), written under the supervision of Petru Mironescu, deals with the use of interpolation and rearrangement techniques in the study of Besov and Sobolev spaces. Some proofs therein were used as supplementary material in the book [A first Course in Fractional Spaces](https://bookstore.ams.org/view?ProductCode=GSM/229) by Giovanni Leoni.
