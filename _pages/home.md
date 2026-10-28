@@ -15,6 +15,6 @@ Welcome !
   
 Here is my [CV](/assets/images/CV_Tristan_Bullion_Gauthier_2026_English.pdf).
 
-Contact : [bullion@math.univ-lyon1.fr](bullion@math.univ-lyon1.fr) 
+Contact : [bullion@math.univ-lyon1.fr]
 
 Office 118, Braconnier Building, 21 avenue Claude Bernard, Villeurbanne, 69100
