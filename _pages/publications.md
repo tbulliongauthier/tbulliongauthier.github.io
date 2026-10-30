@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /publications/
 author_profile : false
 classes : nosidebar
 ---
