@@ -3,4 +3,4 @@ permalink: /Research/
 name : "Research" 
 classes: nosidebar
 ---
-lololo
+\(f \in W\) is nice
