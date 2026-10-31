@@ -1,5 +1,6 @@
 ---
 permalink: /publications/
+name : "Publications"
 author_profile : false
 classes : nosidebar
 ---
