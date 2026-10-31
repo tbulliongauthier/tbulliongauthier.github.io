@@ -92,3 +92,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+ kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true 
