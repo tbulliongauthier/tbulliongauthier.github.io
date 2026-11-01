@@ -5,4 +5,4 @@ author_profile : false
 classes: nosidebar
 
 ---
- \( f \in W \)  is nice
+ \\( f \in W \\)  is nice
