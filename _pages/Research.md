@@ -8,9 +8,9 @@ classes: nosidebar
 **Affine Sobolev inequalities**
 
 Zhang proved the affine Sobolev inequality
-\[
+$$
 ||f||_{L^{N/(N-1)}}\\ \leq C_{1,p} \mathcal{E}_{1,1}(f)\coloneq \left( \int_{\mathbb{S}^{N-1}} \left( ||\nabla f \cdot \xi ||\right)^{-N} \ d\xi \right)^{-1/N}, \ \forall \  f \in W^{1,1}. \ \text{(1)} 
-\] 
+$$ 
 This inequality is a refinement of the classical Sobolev inequality and it is invariant under unimodular transformations. 
 
 The work of Zhang inspired many subsequent results. For example, Haddad and Ludwig established the following fractional counterparts of (1) 
