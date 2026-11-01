@@ -8,14 +8,14 @@ classes: nosidebar
 **Affine Sobolev inequalities**
 
 Zhang proved the affine Sobolev inequality
-\[||f||_{L^{N/(N-1)}}\\ \leq C_{1,p} \mathcal{E}_{1,1}(f)\coloneq \left( \int_{\mathbb{S}^{N-1}} \left( ||\nabla f \cdot \xi ||\right)^{-N} \ d\xi \right)^{-1/N}, \ \forall \  f \in W^{1,1}. \ \text{(1)} \] 
+\\[||f||_{L^{N/(N-1)}}\\ \leq C_{1,p} \mathcal{E}_{1,1}(f)\coloneq \left( \int_{\mathbb{S}^{N-1}} \left( ||\nabla f \cdot \xi ||\right)^{-N} \ d\xi \right)^{-1/N}, \ \forall \  f \in W^{1,1}. \ \text{(1)} \\] 
 This inequality is a refinement of the classical Sobolev inequality and it is invariant under unimodular transformations. 
 
 The work of Zhang inspired many subsequent results. For example, Haddad and Ludwig established the following fractional counterparts of (1) 
-\[|f|_{Np/(N-sp)} \leq C_{s,p} \mathcal{E} \coloneq \int_{\mathbb{S}^{N-1}} \left(\int_{0}^{\infty} t^{-sp} || \Delta^{\lfloor s \rfloor +1}_{t\xi} f ||_{L^p}^p\ dt  \right)^{-N/sp} \ d\xi \right)^{-1/Ns}, \ \forall \ f \in W^{s,p}. \]  
+\\[|f|_{Np/(N-sp)} \leq C_{s,p} \mathcal{E} \coloneq \int_{\mathbb{S}^{N-1}} \left(\int_{0}^{\infty} t^{-sp} || \Delta^{\lfloor s \rfloor +1}_{t\xi} f ||_{L^p}^p\ dt  \right)^{-N/sp} \ d\xi \right)^{-1/Ns}, \ \forall \ f \in W^{s,p}. \\]  
 
 I proved higher-order counterparts of the above inequalities, namely 
-\[||f|_{Np/(N-sp)} \leq C_{s,p} \left(\int_{\mathbb{S}^{N-1}} \left(\int_{\mathbb{S}^{N-1}} \left(||\partial^s_{\xi} f ||_{L^p}^p \right)^{-N/sp} \ d\xi \right)^{-N/sp} \]
+\\[||f|_{Np/(N-sp)} \leq C_{s,p} \left(\int_{\mathbb{S}^{N-1}} \left(\int_{\mathbb{S}^{N-1}} \left(||\partial^s_{\xi} f ||_{L^p}^p \right)^{-N/sp} \ d\xi \right)^{-N/sp} \\]
 The rearrangement and convex geometry tools that were used in previous contributions do not seem to have counterparts for higher-order inequalities. We need to rely on the existence of optimal unimodular transformations. While this tool does not yield sharp estimates, it is robust and leads us to various affine inequalities. For example, it allows us to generalize the reverse affine inequalities of Haddad, Jimenez, and Montenegro (2022), and obtain
 
 **Nonlocal interaction energies**
