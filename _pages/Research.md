@@ -8,7 +8,9 @@ classes: nosidebar
 **Affine Sobolev inequalities**
 
 Zhang proved the affine Sobolev inequality
-\\[||f||_{L^{N/(N-1)}}\\ \leq C_{1,p} \mathcal{E}_{1,1}(f)\coloneq \left( \int_{\mathbb{S}^{N-1}} \left( ||\nabla f \cdot \xi ||\right)^{-N} \ d\xi \right)^{-1/N}, \ \forall \  f \in W^{1,1}. \ \text{(1)} \\] 
+\\[
+||f||_{L^{N/(N-1)}}\\ \leq C_{1,p} \mathcal{E}_{1,1}(f)\coloneq \left( \int_{\mathbb{S}^{N-1}} \left( ||\nabla f \cdot \xi ||\right)^{-N} \ d\xi \right)^{-1/N}, \ \forall \  f \in W^{1,1}. \ \text{(1)} 
+\\] 
 This inequality is a refinement of the classical Sobolev inequality and it is invariant under unimodular transformations. 
 
 The work of Zhang inspired many subsequent results. For example, Haddad and Ludwig established the following fractional counterparts of (1) 
@@ -21,6 +23,6 @@ The rearrangement and convex geometry tools that were used in previous contribut
 **Nonlocal interaction energies**
 The study of minimizers of interaction energies of the form 
 \[\mathcal{P}(\R^N) \ni \nu \mapsto \mathcal{E}(\nu)= \int_{\R^N} \int_{\R^N} W(x-y) d\nu(x) d\nu(y) + \int_{\R^N} V(x) \ d\nu, \ \]
-where $W$ is the Coulomb kernel, is a classical topic. Recently, motivated by applications in the physics of materials, Maria Giovanna Mora and collaborators started the study of minimizers of anisotropic interaction functionals when $W(x)= \frac{\Psi(x/|x|)}{[|x|^{N-2}}$ is not radial. They proved that, when the Fourier transform \\(W \\) is stricly positive and \\( V(x)=|x|^2 \\), the minimizer of \\(\mathcal{E}\\) is the normalized characteristic function of an ellipsoid. 
+where \\(W \\) is the Coulomb kernel, is a classical topic. Recently, motivated by applications in the physics of materials,  Mora, Rondi, Scardia, and collaborators, started to study the minimizers of anisotropic interaction functionals when \\( W(x)= \frac{\Psi(x/|x|)}{[|x|^{N-2}}\\) is not radial. They proved that, when the Fourier transform \\(W \\) is stricly positive and \\( V(x)=|x|^2 \\), the minimizer of \\(\mathcal{E}\\) is the normalized characteristic function of an ellipsoid. 
 
-Inspired by this result, we prove that, when the Fourier tranform of $W$ is strictly positive and \\(V \in H^2_{loc} \\), the minimizer of \\(\mathcal{E} \\) has \\(L^2\\) density.
+Inspired by this result, we prove that, when \\(W\\) and its Fourier transform are strictly positive and \\(V \in H^2_{loc} \\), the minimizer of \\(\mathcal{E} \\) has \\(L^2\\) density.
