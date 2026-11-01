@@ -14,7 +14,7 @@ classes : nosidebar
 
 3. *Existence of extremal functions in higher-order affine Sobolev inequalities*, preprint (2026). [Arxiv](https://arxiv.org/abs/2604.00640) [Hal](https://hal.science/hal-05574982v1)
 
-    We adapt certain concentration compactness methods to the study of higher order affine Sobolev inequalities. The affine invariance of these inequalities forces us to refine these classical tools.
+    We use concentration compactness methods in order to obtain the existence of extremal functions in higher-order affine Sobolev inequalities. The affine invariance of these inequalities forces us to refine these tools.
  
 4. <span style="white-space: nowrap;">L<sup>2</sup>*-regularity*</span> *of minimizers of anisotropic interaction functionals*, with Xiao Kai, preprint (2026). [Arxiv](https://arxiv.org/abs/2609.19181) [Hal](https://hal.science/hal-05743076v1) 
 
