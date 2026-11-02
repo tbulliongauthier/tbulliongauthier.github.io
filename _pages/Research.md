@@ -30,7 +30,7 @@ when \\(sp<N \\).
 
 I proved higher-order counterparts of the above inequalities, for example
 
-$$ ||f||_{L^{Np/(N-sp)}} \leq C_{s,p}  \left(\int_{\mathbb{S}^{N-1}} ||\partial^s_{\xi} f ||_{L^p}^{-N/s} \ d\xi \right)^{-s/N} $$
+$$ ||f||_{L^{Np/(N-sp)}} \leq C_{s,p}  \left(\int_{\mathbb{S}^{N-1}} ||\partial^s_{\xi} f ||_{L^p}^{-N/s} \ d\xi \right)^{-s/N}, $$
 
 
 when \\( s\\) is an integer, \\(1<p<\infty\\) and \\( sp<N \\). 
@@ -40,12 +40,14 @@ The rearrangement and convex geometry tools that were used in previous contribut
 $$||f||_{L^p}^{1-1/N} |f|_{W^{s,p}}^{1/N} \leq C_{s,p} \mathcal{E}_{s,p}(f)$$
 
 
-for each \\(s>0\) and \\(1\leq p<\infty\ \), except possibly when \\( s\geq 2\\) is an integer and \\(p=1\\).
+for each \\(s>0\) and \\(1\leq p<\infty\\), except possibly when \\( s\geq 2\\) is an integer and \\(p=1\\).
 **Nonlocal interaction energies**
 The study of minimizers of interaction energies of the form 
 
 
-$$\mathcal{P}(\mathbb{R}^N) \ni \nu \mapsto \mathcal{E}(\nu)= \int_{\mathbb{R}^N} \int_{\mathbb{R}^N} W(x-y) d\nu(x) d\nu(y) + \int_{\mathbb{R}^N} V(x) \ d\nu,$$
+$$
+\mathcal{P}(\mathbb{R}^N) \ni \nu \mapsto \mathcal{E}(\nu)= \int_{\mathbb{R}^N} \int_{\mathbb{R}^N} W(x-y) d\nu(x) d\nu(y) + \int_{\mathbb{R}^N} V(x) \ d\nu, 
+$$
 
 where \\(W\\) is the Coulomb kernel, is a classical topic. Recently, motivated by applications in the physics of materials,  Mora, Rondi, Scardia, and collaborators, started to study the minimizers of anisotropic interaction functionals when \\( W(x)= \frac{\Psi(x/|x|)}{|x|^{N-2}}\\) is not radial. They proved that, when the Fourier transform \\(W \\) is stricly positive and \\( V(x)=|x|^2 \\), the minimizer of \\(\mathcal{E}\\) is the normalized characteristic function of an ellipsoid. 
 
