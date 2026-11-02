@@ -23,7 +23,8 @@ The work of Zhang inspired many subsequent results. For example, Haddad and Ludw
 $$  ||f||_{L^{Np/(N-sp)}} \leq C_{s,p} \mathcal{E}_{s,p}(f) : = \left(\int_{\mathbb{S}^{N-1}} \left(\int_{0}^{\infty} t^{-sp} || \Delta^{\lfloor s \rfloor +1}_{t\xi} f ||_{L^p}^p\ dt  \right)^{-N/sp} \ d\xi \right)^{-s/N},$$  
 
 
-when \\(sp<N \\)
+when \\(sp<N \\).
+
 I proved higher-order counterparts of the above inequalities, for example
 
 $$ ||f||_{L^{Np/(N-sp)}} \leq C_{s,p}  \left(\int_{\mathbb{S}^{N-1}} ||\partial^s_{\xi} f ||_{L^p}^{-N/s} \ d\xi \right)^{-s/N} $$
