@@ -41,7 +41,9 @@ $$||f||_{L^p}^{1-1/N} |f|_{W^{s,p}}^{1/N} \leq C_{s,p} \mathcal{E}_{s,p}(f)$$
 
 
 for each \\(s>0\) and \\(1\leq p<\infty\\), except possibly when \\( s\geq 2\\) is an integer and \\(p=1\\).
-**Nonlocal interaction energies**
+
+
+**Anistropic interaction energies**
 The study of minimizers of interaction energies of the form 
 
 
