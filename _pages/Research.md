@@ -30,7 +30,7 @@ $$ ||f|_{L^{Np/(N-sp)}} \leq C_{s,p}  \left(\int_{\mathbb{S}^{N-1}} ||\partial^s
 
 
 when \\( s\\) is an integer, \\(1<p<\infty\\) and \\( sp<N \\). 
-The rearrangement and convex geometry tools that were used in previous contributions do not seem to have counterparts for higher-order inequalities. We need to rely on the existence of optimal unimodular transformations and slicing inequalities. While these tools do not yield sharp estimates, they are robust and lead to various affine inequalities. For example, they allow us to generalize the reverse affine inequalities of Haddad, Jimenez, and Montenegro and obtain the "optimal" inequality 
+The rearrangement and convex geometry tools that were used in previous contributions do not seem to have counterparts for higher-order inequalities. We need to rely on the existence of optimal unimodular transformations and slicing inequalities. While these tools do not yield sharp estimates, they are robust and lead to various affine inequalities. For example, they allow us to generalize the reverse affine inequalities of Haddad, Jimenez, and Montenegro and obtain the "optimal" reverse inequalities
 
 
 $$||f||_{L^p}^{1-1/N} |f|_{W^{s,p}}^{1/N} \leq C_{s,p} \mathcal{E}_{s,p}(f)$$
