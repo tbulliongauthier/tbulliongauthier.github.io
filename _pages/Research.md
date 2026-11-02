@@ -11,7 +11,7 @@ Zhang proved the affine Sobolev inequality
 
 
 $$
-||f||_{L^{N/(N-1)}}\\ \leq C_{1,p} \left( \int_{\mathbb{S}^{N-1}} \left( ||\nabla f \cdot \xi ||\right)^{-N} \ d\xi \right)^{-1/N}, \ \forall \  f \in W^{1,1}. \ \text{(1)} 
+||f||_{L^{N/(N-1)}}\\ \leq C_{1,p} \left( \int_{\mathbb{S}^{N-1}} \left( ||\nabla f \cdot \xi ||_{L^1}\right)^{-N} \ d\xi \right)^{-1/N}, \ \forall \  f \in W^{1,1}. \ \text{(1)} 
 $$ 
 
 
