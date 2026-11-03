@@ -42,7 +42,7 @@ $$||f||_{L^p}^{1-1/N} |f|_{W^{s,p}}^{1/N} \leq C_{s,p} \  \mathcal{E}_{s,p}(f)$$
 
 for each \\(s>0\\) and \\(1\leq p<\infty\\), except possibly when \\( s\geq 2\\) is an integer and \\(p=1\\). Here, \\( \mathcal{E}_{s,p} \\) denotes the affine energies of smoothness and integrability orders \\(s\\) and \\(p\\) (as in the right-hand sides of the above inequalities).
 
- I proved the existence of extremal functions in higher-order affine Sobolev inequalities. The affine invariance of these inequalities led me to refine 
+ I proved the existence of extremal functions in higher-order affine Sobolev inequalities. I adapted certain concentration compactness methods in order to deal with the affine invariance of these inequalities.  
 
 
 **Anisotropic interaction energies**
