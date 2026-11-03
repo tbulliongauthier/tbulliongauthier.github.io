@@ -54,4 +54,4 @@ $$
 $$
 
 when \\(W\\) is the Coulomb kernel, is a classical topic. Recently, motivated by applications in the physics of materials,  Mora, Rondi, Scardia, and collaborators, started to study the minimizers of anisotropic interaction functionals when \\( W(x)= \frac{\Psi(x/|x|)}{|x|^{N-2}}\\) is not radial. They proved that, when the Fourier transform \\(W \\) is stricly positive and \\( V(x)=|x|^2 \\), the minimizer of \\(\mathcal{E}\\) is the normalized characteristic function of an ellipsoid. 
-Inspired by this result, we proved (with Kai Xiao) that, when \\(W\\) and its Fourier transform are strictly positive and \\(V \in H^2_{loc} \\), the minimizer of \\(\mathcal{E} \\) has \\(L^2\\) density. Our proof relies on an analysis of nonlocal variational inequalities associated with the minimization of \\( mathcal{E}\\).  
+Inspired by this result, we proved (with Kai Xiao) that, when \\(W\\) and its Fourier transform are strictly positive and \\(V \in H^2_{loc} \\), the minimizer of \\(\mathcal{E} \\) has \\(L^2\\) density. Our proof relies on an analysis of nonlocal variational inequalities associated with the minimization of \\( \mathcal{E}\\).  
